@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ancient Lada 2109 (RAW)
+* source:	https://sketchfab.com/3d-models/ancient-lada-2109-raw-f79bcdfc65804d2ab525bf893ba1e420
+* author:	Nik (https://sketchfab.com/nikska)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ancient Lada 2109 (RAW)" (https://sketchfab.com/3d-models/ancient-lada-2109-raw-f79bcdfc65804d2ab525bf893ba1e420) by Nik (https://sketchfab.com/nikska) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
