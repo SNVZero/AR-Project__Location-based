@@ -12,21 +12,21 @@
 		 </script>
 		  <script src="gesture-detector.js"></script>
 		  <script src="gesture-handler.js"></script>
+		  <script src="navigation.js"></script>
 	</head>
 	
 	<body style='margin: 0; overflow: hidden;'>
 		 <a-scene
-			  			vr-mode-ui="enabled: false"
+			  	vr-mode-ui="enabled: false"
 				embedded 
 				gesture-detector
 				id="scene"
 			  	arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; debugUIEnabled: false;'
 			  >
-			  <a-entity 
+			  <a-entity id ="model"
 					gltf-model="./assets/objMonk/scene.gltf"
 					rotation="0 180 0"
 					scale="1.5 1.5 1.5"
-					gps-entity-place="longitude: 45.022200; latitude: 39.027590;" 
 					animation-mixer
 					class="clickable"
 					gesture-handler
