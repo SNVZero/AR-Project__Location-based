@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	if (modelName == 'car'){
 		let model = document.querySelector('a-entity');
 		model.setAttribute('gltf-model','../assets/objCar/scene.gltf')
-		model.setAttribute('scale','0.5 0.5 0.5')
+		model.setAttribute('scale','0.05 0.05 0.05')
 	}else if(modelName == 'monk'){
 		let model = document.querySelector('a-entity');
 		model.setAttribute('gltf-model','../assets/objMonk/scene.gltf')

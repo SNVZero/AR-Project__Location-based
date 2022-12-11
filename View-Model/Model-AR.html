@@ -14,7 +14,7 @@
 	</head>
 	
 	<body style='margin: 0; overflow: hidden;'>
-		 <a-entity
+		 <a-scene
 			  	vr-mode-ui="enabled: false"
 				embedded 
 				id="scene"
@@ -24,9 +24,8 @@
 					rotation="0 180 0"
 					animation-mixer
 					class="clickable"
-				  />
-				</a-entity>
-			  <a-camera gps-camera="minDistance: 40;" rotation-reader></a-camera>
+				/>
+			  <a-camera gps-camera rotation-reader></a-camera>
 		</a-scene>
 	</body>
 </html>
